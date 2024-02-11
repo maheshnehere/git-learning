@@ -1,3 +1,3 @@
 # git-learning
 learning git
-and amking changes
+and making changes
